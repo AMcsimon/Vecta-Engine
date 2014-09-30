@@ -1,5 +1,7 @@
-.metadata/
-Vector Engine/bin/
-Vector Engine/.settings/
-Vector Engine/.classpath/
-Vector Engine/.project/
+bin/
+tmp/
+.settings/
+VectaEngine/.classpath
+VectaEngine/.project
+VectaEngine/.settings/
+.metadata
